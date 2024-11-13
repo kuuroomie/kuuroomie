@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kuuroomie
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Game Development and Web Development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Game Development
+- 💞️ I’m looking to collaborate on Game Development and Web Development
 - ⚡ Fun fact: My lucky number is 11
 
 <!---
